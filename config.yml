@@ -1,0 +1,6 @@
+Database:
+   Host: host
+   User: user
+   Password: password
+   Port: 3306
+   DBName: name

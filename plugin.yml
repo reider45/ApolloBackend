@@ -1,0 +1,24 @@
+name: ApolloBackend
+authors: [reider45, FinestDev]
+main: me.apollodevs.backend.Apollo
+description: ApolloBackend
+version: 1.0
+commands:
+   hub:
+      description: Go to hub
+   lobby:
+      description: Go to lobby
+   website:
+      description: Info for website
+   help:
+      description: Help info
+   store:
+      description: Store Info
+   shop:
+      description: Shop Info
+   stats:
+      description: Stats Info
+   dev:
+      description: Dev
+   punish:
+      description: Punishment
